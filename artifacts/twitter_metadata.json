@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Twitter.sol": "Name"
+			"contracts/Twitter.sol": "twitter"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/Twitter.sol": {
-			"keccak256": "0xe87f8671e29ed468295a80b51324d151b8c36bbc2ea5752d42ea952211507341",
+			"keccak256": "0xb87f5a701744777a5d5040dd762f92c5b9a6faee3179336730864c220fecec2a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://83970ae5faa385eb8f5e668d2c60a99632af74e4cc7a6db2a08cedb6de8e1c72",
-				"dweb:/ipfs/QmYv7itkSSCgCehHNs3hNTepW2x548q73Fke3Z3PfBqQCY"
+				"bzz-raw://a76680c206b57426c09b9eb86412202f6c5aecbb4ca3c7ee051df371343d3ede",
+				"dweb:/ipfs/QmbbEiS3LCTaDVfrnY73UpC8BdoVb6Pdemh38BgEiMLpEF"
 			]
 		}
 	},
