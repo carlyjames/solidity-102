@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Events.sol": "Name"
+			"contracts/Events.sol": "Even"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/Events.sol": {
-			"keccak256": "0xe87f8671e29ed468295a80b51324d151b8c36bbc2ea5752d42ea952211507341",
+			"keccak256": "0x32ba4dc7d54f807ff9b8e41fe41438c219851393a8cb867f4703e95de38d5987",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://83970ae5faa385eb8f5e668d2c60a99632af74e4cc7a6db2a08cedb6de8e1c72",
-				"dweb:/ipfs/QmYv7itkSSCgCehHNs3hNTepW2x548q73Fke3Z3PfBqQCY"
+				"bzz-raw://0c27410c2c43aa1ff006149458702933c8abfce3037ff3e36448150a8470070d",
+				"dweb:/ipfs/QmStDfiEbbzmeeuBvdXeyuXc9Kf6rm23q6zFkWMpfaVH6Z"
 			]
 		}
 	},
